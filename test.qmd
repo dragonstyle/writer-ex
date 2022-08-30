@@ -1,0 +1,12 @@
+---
+title: Hello World
+format: 
+  sample.lua:
+    output-ext: xml
+validate-yaml: false
+
+---
+
+## Title Area
+
+Now is the time for all good people to come to the aid of their country.
